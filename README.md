@@ -10,3 +10,7 @@
 
 # Again open for changes without staging area 
 ## second of the two changes
+
+# just changing this to use add command to make file in staging area 
+
+# this change is only for untracked file will not be added 
